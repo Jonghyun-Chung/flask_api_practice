@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Rylee Paul",
+      "authorId": 9,
+      "likes": 960,
+      "popularity": 0.13,
+      "reads": 50361,
+      "tags": [
+        "tech",
+        "health"
+      ]
+    },
+    {
+      "id": 2,
+      "author": "John Chung",
+      "authorId": 10,
+      "likes": 1040,
+      "popularity": 0.14,
+      "reads": 50361,
+      "tags": [
+        "science",
+        "post"
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Samantha Kim",
+      "authorId": 40,
+      "likes": 260,
+      "popularity": 0.23,
+      "reads": 50361,
+      "tags": [
+        "restaurant",
+        "health"
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Osman Alidu",
+      "authorId": 20,
+      "likes": 360,
+      "popularity": 0.63,
+      "reads": 50361,
+      "tags": [
+        "blog",
+        "post"
+      ]
+    },
+    {
+      "id": 5,
+      "author": "Rylee Paul",
+      "authorId": 9,
+      "likes": 960,
+      "popularity": 0.13,
+      "reads": 50361,
+      "tags": [
+        "tech",
+        "health"
+      ]
+    },
+    {
+      "id": 6,
+      "author": "Rylee Paul",
+      "authorId": 9,
+      "likes": 960,
+      "popularity": 0.13,
+      "reads": 50361,
+      "tags": [
+        "tech",
+        "health"
+      ]
+    },
+    {
+      "author": "Rylee Paul",
+      "authorId": 9,
+      "id": 7,
+      "likes": 960,
+      "popularity": 0.13,
+      "reads": 50361,
+      "tags": [
+        "tech",
+        "health"
+      ]
+    },
+    {
+      "author": "Rylee Paul",
+      "authorId": 9,
+      "id": 10,
+      "likes": 960,
+      "popularity": 0.13,
+      "reads": 50361,
+      "tags": [
+        "tech",
+        "health"
+      ]
+    }
+  ]
+}
